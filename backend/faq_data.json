@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "How do I reset my password?",
+    "answer": "You can reset your password by visiting the IT Helpdesk portal and clicking on 'Forgot Password'. Follow the instructions sent to your alternate email address.",
+    "alternatives": [
+      "I forgot my password",
+      "password reset",
+      "help with my password"
+    ]
+  },
+  {
+    "id": "2",
+    "question": "How do I connect to the university Wi-Fi?",
+    "answer": "Select the 'Campus-Secure' network from your Wi-Fi settings and log in using your student ID and password. Ensure you accept the certificate if prompted.",
+    "alternatives": [
+      "wifi setup",
+      "cannot connect to wifi",
+      "internet connection"
+    ]
+  },
+  {
+    "id": "3",
+    "question": "Where can I download Microsoft Office?",
+    "answer": "As a student, you can download Microsoft Office for free by logging into office.com with your student email address and clicking 'Install Office'.",
+    "alternatives": [
+      "free ms office",
+      "install word and excel",
+      "office 365 download"
+    ]
+  },
+  {
+    "id": "4",
+    "question": "How do I print from my laptop on campus?",
+    "answer": "Install the Mobility Print app from the IT portal. Once installed, you can select 'Campus-Printers' when printing any document from your laptop.",
+    "alternatives": [
+      "wireless printing",
+      "print from own device",
+      "printer setup"
+    ]
+  },
+  {
+    "id": "5",
+    "question": "Who do I contact if my laptop is broken?",
+    "answer": "The IT Helpdesk provides basic software troubleshooting, but we do not repair personal hardware. Please contact your laptop's manufacturer or a local repair shop.",
+    "alternatives": [
+      "laptop repair",
+      "broken computer",
+      "hardware support"
+    ]
+  }
+]
